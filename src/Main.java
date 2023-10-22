@@ -12,5 +12,5 @@ public class Main {
         System.out.println("        3. 判断密码强度");
         System.out.println("        4. 密码生成");
         System.out.println("        5. 退出");
-    }//ljy第5周的修改
+    }//这是林嘉越第5周的修改
 }
